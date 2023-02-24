@@ -1,3 +1,8 @@
-package PACKAGE_NAME;/**
-The golden boy*/public enum Country {
+/**
+ * The golden boy
+ */
+public enum Country {
+    ITALIA,
+    SPAIN,
+    CHILI
 }
